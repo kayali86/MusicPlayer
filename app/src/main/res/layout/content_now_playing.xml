@@ -27,14 +27,16 @@
                 android:scaleType="fitXY"
                 android:src="@drawable/music"
                 android:id="@+id/album_image"/>
+
             <ImageButton
+                android:id="@+id/favorite_btn"
                 android:layout_width="40dp"
                 android:layout_height="40dp"
-                android:contentDescription="@string/imageButton"
+                android:layout_marginBottom="32dp"
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true"
                 android:background="@drawable/ic_favorite_border_white_24dp"
-                android:id="@+id/favorite_btn"/>
+                android:contentDescription="@string/imageButton" />
         </RelativeLayout>
         <LinearLayout
             android:layout_width="match_parent"
