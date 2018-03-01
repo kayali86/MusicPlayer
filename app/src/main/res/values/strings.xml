@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="all_tracks">All Tracks</string>
+    <string name="favorites">Favorites</string>
+    <string name="recent">Recent</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="imageButton">Image Button</string>
+    <string name="track_name">Track Name</string>
+    <string name="duration">Duration</string>
+    <string name="album">Album</string>
+    <string name="artist">Artist</string>
+    <string name="saved_in_favorites">Track saved in Favorites</string>
+    <string name="removed_from_favorites">Track removed from Favorites</string>
+</resources>
