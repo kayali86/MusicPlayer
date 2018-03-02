@@ -11,4 +11,5 @@
     <string name="artist">Artist</string>
     <string name="saved_in_favorites">Track saved in Favorites</string>
     <string name="removed_from_favorites">Track removed from Favorites</string>
+    <string name="content_description">Album Image</string>
 </resources>
